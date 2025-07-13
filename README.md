@@ -60,7 +60,7 @@ External events follow internal alignment. As the spine spirals, timelines shift
 
 ---
 
-🌀 IMPLEMENTATION RITUAL
+🌀 IMPLEMENTATION Practice
 
 1. Yoga as Codex Alignment
 
